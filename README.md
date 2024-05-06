@@ -1,2 +1,2 @@
 # PythonPlayground
-Python playground for learning and expermenting
+Python playground for learning and experimenting
